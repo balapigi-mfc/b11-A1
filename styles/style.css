@@ -373,7 +373,7 @@ nav h4:hover {
   background-color: #e0a800;
 }
 
-/* Quote Section */
+/* Quote */
 
 .quote {
   width: 1280px;
@@ -384,7 +384,7 @@ nav h4:hover {
   background: #fff;
   padding: 48px 24px;
   margin-bottom: 80px;
-  background-image: url("assets/quote-bg.png");
+  background-image: url(../icon/quote-bg.png);
   background-repeat: no-repeat;
   background-position-x: 24px;
   background-position-y: 25px;
@@ -548,7 +548,7 @@ table td {
 }
 
 .newscard-info > button:hover {
-  background-color: #03926e;
+  background-color: #fc0505 ;
   cursor: pointer;
 }
 
@@ -570,7 +570,7 @@ table td {
   margin-top: 24px;
 }
 
-/* Donate Today Section */
+/* Donate */
 
 .donate {
   width: 1280px;
@@ -664,7 +664,7 @@ table td {
   cursor: pointer;
 }
 
-/* NEWS LETTER Section */
+/* NEWS LETTER */
 
 .news-letter {
   width: 1280px;
