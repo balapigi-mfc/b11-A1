@@ -415,6 +415,66 @@ nav h4:hover {
   margin-top: 4px;
 }
 
+/* ============ opinion section ============ */
+.opinion_wrapper {
+  margin: 24px 0px;
+  border-radius: 16px;
+  background: #ffffff;
+  padding: 32px;
+}
+.opinion h2 {
+  color: #0e0e0e;
+  font-size: 35px;
+  font-weight: 700;
+}
+
+.opinion_wrapper table {
+  margin: 0 auto;
+  padding: 32px;
+}
+.opinion_wrapper table,th,td {
+  border: 1px solid;
+  border-collapse: collapse;
+}
+table th,td {
+  padding: 20px;
+}
+
+table th {
+  border: 1px solid #0e0e0e26;
+  background: #c6e4d6;
+  color: #0e0e0e;
+  font-size: 17px;
+  font-weight: 600;
+  text-align: left;
+}
+table tr .tselect {
+  border-left: none;
+}
+table tr .tqus {
+  border-right: none;
+}
+table td {
+  border: 1px solid #0e0e0e26;
+  background: #ffffff1a;
+  color: #0e0e0e;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.opinion_wrapper table select {
+  background: #c6e4d6;
+  color: #0e0e0e;
+  font-size: 16px;
+  font-weight: 500;
+  border: 1px solid #0e0e0e;
+  border-radius: 4px;
+  padding: 8px 12px;
+  font-family: "Fira Sans";
+}
+
+
+
 /* Recent News Section */
 
 .recent-news {
